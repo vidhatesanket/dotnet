@@ -1,0 +1,36 @@
+@using play;
+@{
+    ViewData["Title"] = "Player Details";
+}
+@{
+    xyz p = ViewData["plays"] as xyz;
+}
+
+
+<div>
+    <p>
+        @{
+           
+                <>
+                    Enter Player name:<input type="text">
+                    Enter Player No:<input type="number">
+                    Enter Player Skill:<input type="text">
+                    <button onClick="f1()" id="p">Add to Players</button>
+                   
+                </>
+                
+            }
+        }
+    </p>
+    <script>
+           let arr = [];
+        function f1() {
+            let Player = document.getElementById("p").value;
+            arr.push(Player);
+            console.log(arr[0]);
+            document.getElementById("a1").innerHtml=arr;
+        }
+
+    </script>
+
+</div>

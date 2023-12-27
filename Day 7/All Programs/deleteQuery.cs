@@ -1,0 +1,11 @@
+using MySql.Data.MySqlClient;
+Console.WriteLine("Welcome to database App");
+MySqlConnection connection = new MySqlConnection();
+connection.ConnectionString ="server=127.0.0.1;port=3306;user=root;password=welcome;database=someshdb";
+Console.WriteLine("Enter the id of product to be deleted:");
+int id=int.Parse(Console.ReadLine());
+string query="delete from product where pid=@id";
+MySqlCommand command = new MySqlCommand(query, connection);
+command.Parameters.AddWithValue("@id",id);
+connection.Open();
+command.ExecuteNonQuery();

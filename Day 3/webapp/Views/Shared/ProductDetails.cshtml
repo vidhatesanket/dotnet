@@ -1,0 +1,16 @@
+
+@using Catalog;
+@{
+    ViewData["Title"] = "Product Details";  
+}
+@{
+    Product p=ViewData["sampleabc"] as Product;
+}
+
+
+
+<h1>Product Id: @p.Id</h1>
+<h1>Product Price: @p.Price</h1>
+<h1>Product Quantity: @p.Qty</h1>
+<h1>Product Name: @p.Name</h1>
+
