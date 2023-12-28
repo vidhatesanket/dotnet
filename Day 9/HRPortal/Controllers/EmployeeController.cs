@@ -4,7 +4,7 @@ using HRPortal.Models;
 using dal;
 using EmployeePackage;
 namespace HRPortal.Controllers;
-
+using System.Collections;
 public class EmployeeController : Controller
 {
     private readonly ILogger<EmployeeController> _logger;
@@ -20,10 +20,10 @@ public class EmployeeController : Controller
         ViewData["Employees"]=plist;
         return View();
     }
-    public IActionResult ShowEmployeeList(int id)
+    public IActionResult ShowEmployee(int id)
     {
         List<Employee> plist=HRDBManager.getList();
-        var e=plist.find((emp)=>emp.Id==id)
+        var e=plist.Find((emp)=>emp.Id==id);
         return View(e);
     }
 

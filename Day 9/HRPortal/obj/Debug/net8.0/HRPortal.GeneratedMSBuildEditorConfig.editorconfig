@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\IET\Desktop\Dot Net\dotnet\Day 9\hrportal
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/IET/Desktop/Dot Net/dotnet/Day 9/hrportal/Views/Employee/ShowEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcU2hvd0VtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/IET/Desktop/Dot Net/dotnet/Day 9/hrportal/Views/Employee/ShowEmployeeList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcU2hvd0VtcGxveWVlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

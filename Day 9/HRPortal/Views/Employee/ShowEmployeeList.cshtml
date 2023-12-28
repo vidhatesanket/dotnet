@@ -8,9 +8,12 @@
 @{
     <h1>Employee Details</h1>
     foreach(Employee emp in plist){
-    <p>@emp.Id  @emp.Name  </p>
-    <img src='@emp.Path' alt="Image not found" height="100px" />
-    <hr/>
+            <a href="/Employee/ShowEmployee"></a>
+            <a href="/Employee/ShowEmployee/@emp.Id">Show Details</a>
+            <p>@emp.Id  @emp.Name  </p>
+    
+        <img src='@emp.Path' alt="Image not found" height="100px" />
+        <hr/>
         
     }
 }
