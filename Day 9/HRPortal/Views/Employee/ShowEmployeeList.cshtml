@@ -1,0 +1,17 @@
+@using EmployeePackage;
+@{
+    ViewData["Title"] = "Our Employees";
+    List<Employee> plist=(List<Employee>)ViewData["Employees"];
+}
+
+<div class="text-center">
+@{
+    <h1>Employee Details</h1>
+    foreach(Employee emp in plist){
+    <p>@emp.Id  @emp.Name  </p>
+    <img src='@emp.Path' alt="Image not found" height="100px" />
+    <hr/>
+        
+    }
+}
+</div>
