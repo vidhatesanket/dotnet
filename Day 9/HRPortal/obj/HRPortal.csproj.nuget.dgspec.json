@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 9\\hrportal\\HRPortal.csproj": {}
+    "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 9\\HRPortal\\HRPortal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 9\\hrportal\\HRPortal.csproj": {
+    "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 9\\HRPortal\\HRPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 9\\hrportal\\HRPortal.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 9\\HRPortal\\HRPortal.csproj",
         "projectName": "HRPortal",
-        "projectPath": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 9\\hrportal\\HRPortal.csproj",
+        "projectPath": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 9\\HRPortal\\HRPortal.csproj",
         "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 9\\hrportal\\obj\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 9\\HRPortal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "mysql.data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
