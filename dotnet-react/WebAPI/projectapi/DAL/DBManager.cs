@@ -6,7 +6,7 @@ public class DBManager{
 
     public static List<Player> getall(){
         List<Player> plist=new List<Player>();
-        string query="select * from Product";
+        string query="select * from playerlist";
         MySqlConnection conn=new MySqlConnection();
         conn.ConnectionString=connString;
         MySqlCommand cmd=new MySqlCommand();
@@ -19,7 +19,8 @@ public class DBManager{
         while (reader.Read()){
             int id=int.Parse(reader["pid"].ToString());
             string name=reader["pname"].ToString();
-            Player p = new Player(id,name);
+            string Skills=reader["skills"].ToString();
+            Player p = new Player(id,name,Skills);
             plist.Add(p);
         }
         conn.Close();

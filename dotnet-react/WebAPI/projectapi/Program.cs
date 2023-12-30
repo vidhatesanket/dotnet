@@ -13,7 +13,7 @@ app.UseStaticFiles();
 app.UseRouting();
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Player}/{action=GetPlayers}");
+    pattern: "{controller=Home}/{action=GetPlayers}");
 app.Run();
 
 

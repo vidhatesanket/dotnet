@@ -57,28 +57,34 @@ export default class MyAPP extends Component {
   }
 
   componentDidMount() {
-    axios.get('http://localhost:5007/player',{mode:'cors'})
+    axios.get('http://localhost:5007/player',{mode:'cors'})   
       .then(response => {
        
-        // response.set( Access-Control-Allow-Origin, localhost:5007);
-        // response.AppendHeader("Access-Control-Allow-Origin", "*");
+      
         console.log(response.data);
         this.setState({ players: response.data });
       })
       .catch(error => {
         console.log(error);
       });
+
+
+
   }
 
   render() {
     return (
       <div>
+        <style>
+          
+        </style>
         <h2>Player Data...</h2>
-        <table>
+        <table borderCollapse="collapse" width="100%" border="2px" textAlign="center">
           <thead>
             <tr>
               <th>ID</th>
               <th>Name</th>
+              <th>Skills</th>
             </tr>
           </thead>
           <tbody>
@@ -86,6 +92,7 @@ export default class MyAPP extends Component {
               <tr key={player.pid}>
                 <td>{player.pid}</td>
                 <td>{player.pname}</td>
+                <td>{player.skills}</td>
               </tr>
             ))}
           </tbody>
