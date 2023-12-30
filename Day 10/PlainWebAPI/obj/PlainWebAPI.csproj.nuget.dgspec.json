@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 10\\plainwebapi\\PlainWebAPI.csproj": {}
+    "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 10\\PlainWebAPI\\PlainWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 10\\plainwebapi\\PlainWebAPI.csproj": {
+    "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 10\\PlainWebAPI\\PlainWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 10\\plainwebapi\\PlainWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 10\\PlainWebAPI\\PlainWebAPI.csproj",
         "projectName": "PlainWebAPI",
-        "projectPath": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 10\\plainwebapi\\PlainWebAPI.csproj",
+        "projectPath": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 10\\PlainWebAPI\\PlainWebAPI.csproj",
         "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 10\\plainwebapi\\obj\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\Day 10\\PlainWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
