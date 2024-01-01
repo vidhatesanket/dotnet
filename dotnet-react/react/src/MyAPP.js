@@ -1,3 +1,4 @@
+
 // import React, { Component } from 'react'
 
 
@@ -45,24 +46,22 @@
 
 
 
-import React, { Component } from 'react';
+import React from 'react';
 import axios from 'axios';
 
-export default class MyAPP extends Component {
-  constructor(props) {
-    super(props);
+export default class MyAPP extends React.Component {
+  constructor() {
+    super();
     this.state = {
-      players: []
+      arr: []
     };
   }
 
   componentDidMount() {
-    axios.get('http://localhost:5007/player',{mode:'cors'})   
+   axios.get('http://localhost:5007/player')     
       .then(response => {
-       
-      
         console.log(response.data);
-        this.setState({ players: response.data });
+        this.setState({ arr: response.data });
       })
       .catch(error => {
         console.log(error);
@@ -88,7 +87,7 @@ export default class MyAPP extends Component {
             </tr>
           </thead>
           <tbody>
-            {this.state.players.map(player => (
+            {this.state.players.map((player) => (
               <tr key={player.pid}>
                 <td>{player.pid}</td>
                 <td>{player.pname}</td>

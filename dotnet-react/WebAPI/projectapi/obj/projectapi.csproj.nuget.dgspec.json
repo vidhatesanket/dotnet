@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IET\\Desktop\\React + Dotnet\\WebAPI\\projectapi\\projectapi.csproj": {}
+    "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\dotnet-react\\WebAPI\\projectapi\\projectapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IET\\Desktop\\React + Dotnet\\WebAPI\\projectapi\\projectapi.csproj": {
+    "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\dotnet-react\\WebAPI\\projectapi\\projectapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IET\\Desktop\\React + Dotnet\\WebAPI\\projectapi\\projectapi.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\dotnet-react\\WebAPI\\projectapi\\projectapi.csproj",
         "projectName": "projectapi",
-        "projectPath": "C:\\Users\\IET\\Desktop\\React + Dotnet\\WebAPI\\projectapi\\projectapi.csproj",
+        "projectPath": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\dotnet-react\\WebAPI\\projectapi\\projectapi.csproj",
         "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IET\\Desktop\\React + Dotnet\\WebAPI\\projectapi\\obj\\",
+        "outputPath": "C:\\Users\\IET\\Desktop\\Dot Net\\dotnet\\dotnet-react\\WebAPI\\projectapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
