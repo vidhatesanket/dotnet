@@ -1,0 +1,44 @@
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.exe
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.deps.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.runtimeconfig.json
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\obj\Debug\net8.0\refint\ThreadDemoApp.dll
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.pdb
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.genruntimeconfig.cache
+D:\Ravi\CDAC\PGDAC\IET\Sept23\Day_12\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ref\ThreadDemoApp.dll
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.exe
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.deps.json
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.runtimeconfig.json
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.dll
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.pdb
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.sourcelink.json
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.dll
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\obj\Debug\net8.0\refint\ThreadDemoApp.dll
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.pdb
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dot Net Material\DOTNET\Day11\ECommerce\ThreadDemoApp\obj\Debug\net8.0\ref\ThreadDemoApp.dll
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.exe
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.deps.json
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.runtimeconfig.json
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.dll
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\bin\Debug\net8.0\ThreadDemoApp.pdb
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.AssemblyInfo.cs
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.sourcelink.json
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.dll
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\obj\Debug\net8.0\refint\ThreadDemoApp.dll
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.pdb
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\obj\Debug\net8.0\ThreadDemoApp.genruntimeconfig.cache
+C:\Users\IET\Desktop\Dot Net\dotnet\Day 13\ThreadDemoApp\obj\Debug\net8.0\ref\ThreadDemoApp.dll
