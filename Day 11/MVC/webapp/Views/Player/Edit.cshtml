@@ -1,0 +1,16 @@
+@using BOL;
+
+@{
+Player p=ViewData["pl"] as Player;
+}
+
+<div>
+    <center>
+        <form  method="get" border="2px" asp-action="Update">
+            Player ID : <input type="number" value=@p.id name="id" readonly><br><br>
+            Player Name : <input type="text" value=@p.name name="name"><br><br>
+            Player Skills : <input type="text" value=@p.skills name="skills"><br><br>
+            <input type="submit" value="Update">
+        </form>
+    </center>
+</div>

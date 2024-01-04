@@ -1,0 +1,29 @@
+@using BOL;
+@{
+    List<Player> plist=ViewData["pl"] as List<Player>;
+}
+
+<table  style="border: 3px solid black;">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Skills</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    @{
+        foreach(Player p in plist){
+            <tbody>
+                <tr>
+                    <td>@p.id</td>
+                    <td>@p.name</td>
+                    <td>@p.skills</td>
+                    <td><a href="./Edit/@(p.id)/">Edit</a></td>
+                    <td><a href="./Delete/@(p.id)">Delete</a></td>
+                </tr>
+            </tbody>
+        }
+    }
+</table>
