@@ -53,5 +53,17 @@ public static class DBManager{
 
     }
 
+    public static void addNewPlayer(int id,string name,string skills){
+        string query="insert into player values(@id,@nm,@sk)";
+        MySqlConnection conn=new MySqlConnection();
+        conn.ConnectionString=connString;
+        conn.Open();
+        MySqlCommand cmd=new MySqlCommand(query,conn);
+        cmd.Parameters.AddWithValue("@id",id);
+        cmd.Parameters.AddWithValue("@nm",name);
+        cmd.Parameters.AddWithValue("@sk",skills);
+        cmd.ExecuteNonQuery();
+    }
+
 
 }

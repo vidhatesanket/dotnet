@@ -29,7 +29,6 @@ public class PlayerController : Controller
 
     [HttpGet]
     public IActionResult Update(int id,string name,string skills){
-        Console.WriteLine(id+ " "+ name+ " "+skills);
          DBManager.updatePlayer(id,name,skills);
         return View();
     }
@@ -38,9 +37,13 @@ public class PlayerController : Controller
         DBManager.delete(id);
         return View();
     }
+
+  
+
     [HttpGet]
-    public IActionResult AddNew(int id,string name,string skills){
-        DBManager.addPlayer(id,name,skills);
+    public IActionResult AddNew(int pid,string pname,string pskill){
+        Console.WriteLine("Sanket");
+        DBManager.addNewPlayer( pid, pname,pskill);
         return View();
     }
 }
